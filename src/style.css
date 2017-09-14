@@ -1,0 +1,14 @@
+.flex-box {
+   display: flex;
+}
+.hz-flex{
+   display: flex;
+   flex-grow: 1;
+   flex-direction: column;
+   padding: 20px;
+   border: 1px solid #737272;
+}
+
+.hz-flex .forminput{
+    margin-top: 20px;
+}
